@@ -4,6 +4,7 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #071E22;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 nav {
     background-color: #8D99AE;
